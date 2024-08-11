@@ -4,6 +4,7 @@
   services.flatpak = {
     enable = true;
     packages = [
+      "com.beavernotes.beavernotes"
       "com.obsproject.Studio"
       "dev.vencord.Vesktop"
       "io.freetubeapp.FreeTube"
