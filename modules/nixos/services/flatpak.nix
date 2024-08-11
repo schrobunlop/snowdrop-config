@@ -5,6 +5,7 @@
     enable = true;
     packages = [
       "com.obsproject.Studio"
+      "io.freetubeapp.FreeTube"
       "io.github.peazip.PeaZip"
       "org.keepassxc.KeePassXC"
       "org.mozilla.firefox"
