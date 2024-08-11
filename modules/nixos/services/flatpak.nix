@@ -14,6 +14,7 @@
       "org.mozilla.firefox"
       "org.mozilla.Thunderbird"
       "org.prismlauncher.PrismLauncher"
+      "org.strawberrymusicplayer.strawberry"
     ];
     update.onActivation = true;
     overrides = {
