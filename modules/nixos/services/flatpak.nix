@@ -9,6 +9,7 @@
       "dev.vencord.Vesktop"
       "io.freetubeapp.FreeTube"
       "io.github.peazip.PeaZip"
+      "org.kde.krita"
       "org.keepassxc.KeePassXC"
       "org.libreoffice.LibreOffice"
       "org.mozilla.firefox"
