@@ -5,6 +5,7 @@
     enable = true;
     packages = [
       "com.beavernotes.beavernotes"
+      "com.interversehq.qView"
       "com.obsproject.Studio"
       "dev.vencord.Vesktop"
       "io.freetubeapp.FreeTube"
