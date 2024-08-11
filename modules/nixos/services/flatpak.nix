@@ -5,6 +5,7 @@
     enable = true;
     packages = [
       "com.obsproject.Studio"
+      "dev.vencord.Vesktop"
       "io.freetubeapp.FreeTube"
       "io.github.peazip.PeaZip"
       "org.keepassxc.KeePassXC"
