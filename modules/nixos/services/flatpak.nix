@@ -15,6 +15,7 @@
       "org.mozilla.Thunderbird"
       "org.prismlauncher.PrismLauncher"
       "org.strawberrymusicplayer.strawberry"
+      "org.tenacityaudio.Tenacity"
     ];
     update.onActivation = true;
     overrides = {
