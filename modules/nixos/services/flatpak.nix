@@ -5,6 +5,7 @@
     enable = true;
     packages = [
       "com.beavernotes.beavernotes"
+      "com.dec05eba.gpu_screen_recorder"
       "com.interversehq.qView"
       "com.obsproject.Studio"
       "dev.vencord.Vesktop"
