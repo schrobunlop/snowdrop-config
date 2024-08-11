@@ -10,6 +10,7 @@
       "io.freetubeapp.FreeTube"
       "io.github.peazip.PeaZip"
       "org.keepassxc.KeePassXC"
+      "org.libreoffice.LibreOffice"
       "org.mozilla.firefox"
       "org.prismlauncher.PrismLauncher"
     ];
