@@ -17,6 +17,7 @@
       "org.mozilla.firefox"
       "org.mozilla.Thunderbird"
       "org.prismlauncher.PrismLauncher"
+      "org.shotcut.Shotcut"
       "org.strawberrymusicplayer.strawberry"
       "org.tenacityaudio.Tenacity"
     ];
