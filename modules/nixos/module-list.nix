@@ -1,0 +1,38 @@
+{
+  imports = [
+    ./config/locale.nix
+    ./config/nix.nix
+    ./config/pkgs.nix
+    ./config/zram.nix
+    ./hardware/bluetooth.nix
+    ./hardware/graphics.nix
+    ./hardware/nvidia.nix
+    ./misc/sops.nix
+    ./misc/unfree.nix
+    ./misc/version.nix
+    ./programs/fuse.nix
+    ./programs/kdeconnect.nix
+    ./programs/nano.nix
+    ./programs/neovim.nix
+    ./programs/zsh.nix
+    ./security/rtkit.nix
+    ./security/sudo.nix
+    ./services/flatpak.nix
+    ./services/garbage-collection.nix
+    ./services/mullvad-vpn.nix
+    ./services/networkmanager.nix
+    ./services/pipewire.nix
+    ./services/plasma.nix
+    ./services/printing.nix
+    ./services/sddm.nix
+    ./services/xserver.nix
+    ./system/boot.nix
+    ./system/hostname.nix
+    ./system/impermanence.nix
+    ./system/machine-id.nix
+    ./system/persistence.nix
+    ./system/systemd.nix
+    ./users/user.nix
+    ./users/users-groups.nix
+  ];
+}
