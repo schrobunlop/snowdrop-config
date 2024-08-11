@@ -12,6 +12,7 @@
       "org.keepassxc.KeePassXC"
       "org.libreoffice.LibreOffice"
       "org.mozilla.firefox"
+      "org.mozilla.Thunderbird"
       "org.prismlauncher.PrismLauncher"
     ];
     update.onActivation = true;
