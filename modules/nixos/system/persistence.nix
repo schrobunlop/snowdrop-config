@@ -4,6 +4,7 @@
   environment.persistence."/persist" = {
     hideMounts = true;
     directories = [
+      "/etc/mullvad-vpn"
       "/etc/NetworkManager/system-connections"
       "/etc/nixos"
       "/var/lib/bluetooth"

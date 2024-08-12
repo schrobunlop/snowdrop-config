@@ -15,6 +15,7 @@
     ];
     files = [
       ".config/dolphinrc"
+      ".config/Mullvad VPN/gui_settings.json"
       ".config/sops/age/keys.txt"
       ".local/share/user-places.xbel"
     ];
