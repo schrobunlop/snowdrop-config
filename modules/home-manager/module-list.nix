@@ -1,9 +1,9 @@
 {
   imports = [
-    ./modules/git.nix
-    ./modules/kitty.nix
-    ./modules/persistence.nix
-    ./modules/plasma-manager.nix
-    ./modules/zsh.nix
+    ./bundle/git.nix
+    ./bundle/kitty.nix
+    ./bundle/persistence.nix
+    ./bundle/plasma-manager.nix
+    ./bundle/zsh.nix
   ];
 }
