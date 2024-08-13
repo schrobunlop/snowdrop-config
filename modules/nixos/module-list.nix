@@ -10,6 +10,7 @@
     ./misc/sops.nix
     ./misc/unfree.nix
     ./misc/version.nix
+    ./programs/adb.nix
     ./programs/fuse.nix
     ./programs/kdeconnect.nix
     ./programs/nano.nix
