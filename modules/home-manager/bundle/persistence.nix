@@ -7,6 +7,7 @@
       "Music"
       "Pictures"
       "Videos"
+      ".config/kdeconnect"
       ".local/share/dolphin"
       ".local/share/flatpak"
       ".local/share/kwalletd"
