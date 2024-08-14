@@ -21,7 +21,7 @@
     ./services/flatpak.nix
     ./services/garbage-collection.nix
     ./services/mullvad-vpn.nix
-    ./services/networkmanager.nix
+    ./services/networking.nix
     ./services/pipewire.nix
     ./services/plasma.nix
     ./services/printing.nix
