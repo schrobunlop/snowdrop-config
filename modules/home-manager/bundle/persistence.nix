@@ -13,6 +13,10 @@
       ".local/share/kwalletd"
       ".local/share/kxmlgui5"
       ".var/app"
+      {
+        directory = ".local/share/Steam";
+        method = "symlink";
+      }
     ];
     files = [
       ".config/dolphinrc"
