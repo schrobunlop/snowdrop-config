@@ -6,6 +6,7 @@
     input.keyboard.numlockOnStartup = "on";
     kscreenlocker = {
       lockOnResume = true;
+      timeout = 10;
     };
   };
 }
