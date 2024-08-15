@@ -3,5 +3,8 @@
     "nvidia-x11"
     "nvidia-settings"
     "nvidia-persistenced"
+    "steam"
+    "steam-original"
+    "steam-run"
   ];
 }

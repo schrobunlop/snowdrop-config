@@ -15,6 +15,7 @@
     ./programs/kdeconnect.nix
     ./programs/nano.nix
     ./programs/neovim.nix
+    ./programs/steam.nix
     ./programs/zsh.nix
     ./security/rtkit.nix
     ./security/sudo.nix
