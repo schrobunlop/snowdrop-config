@@ -1,5 +1,6 @@
 {
   imports = [
+    ./config/fonts.nix
     ./config/locale.nix
     ./config/nix.nix
     ./config/pkgs.nix
