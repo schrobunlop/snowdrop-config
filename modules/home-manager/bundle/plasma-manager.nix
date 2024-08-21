@@ -3,6 +3,7 @@
 
   programs.plasma = {
     enable = true;
+
     panels = [
       {
         location = "top";
@@ -48,7 +49,9 @@
         ];
       }
     ];
+
     input.keyboard.numlockOnStartup = "on";
+
     kscreenlocker = {
       lockOnResume = true;
       timeout = 10;
