@@ -21,6 +21,7 @@
       "org.strawberrymusicplayer.strawberry"
       "org.tenacityaudio.Tenacity"
     ];
+    uninstallUnmanaged = true;
     update.onActivation = true;
     overrides = {
       # In the Prism Launcher settings window, under Launcher, direct the Instances folder to the following path:
