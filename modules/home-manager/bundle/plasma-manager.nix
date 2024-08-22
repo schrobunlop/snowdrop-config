@@ -50,6 +50,37 @@
       }
     ];
 
+    window-rules = [
+      {
+        description = "org.mozilla.firefox";
+        match = {
+          window-class = {
+            value = "org.mozilla.firefox";
+            type = "substring";
+          };
+          window-types = [ "normal" ];
+        };
+        apply = {
+          maximizehoriz = true;
+          maximizevert = true;
+        };
+      }
+      {
+        description = "Firefox";
+        match = {
+          window-class = {
+            value = "firefox";
+            type = "substring";
+          };
+          window-types = [ "normal" ];
+        };
+        apply = {
+          maximizehoriz = true;
+          maximizevert = true;
+        };
+      }
+    ];
+
     input.keyboard.numlockOnStartup = "on";
 
     kscreenlocker = {
