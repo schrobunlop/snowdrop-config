@@ -27,6 +27,12 @@
       inputs.home-manager.follows = "home-manager";
     };
 
+    stylix = {
+      url = "github:danth/stylix?ref=release-24.05";
+      inputs.nixpkgs.follows = "nixpkgs";
+      inputs.home-manager.follows = "home-manager";
+    };
+
     nix-flatpak.url = "github:gmodena/nix-flatpak?ref=v0.4.1";
   };
 
