@@ -20,7 +20,6 @@
       "org.shotcut.Shotcut"
       "org.strawberrymusicplayer.strawberry"
       "org.tenacityaudio.Tenacity"
-      "org.upscayl.Upscayl"
     ];
     uninstallUnmanaged = true;
     update.onActivation = true;
