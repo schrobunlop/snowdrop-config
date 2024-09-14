@@ -13,7 +13,6 @@
       "io.github.peazip.PeaZip"
       "org.kde.krita"
       "org.keepassxc.KeePassXC"
-      "org.libreoffice.LibreOffice"
       "org.mozilla.firefox"
       "org.mozilla.Thunderbird"
       "org.prismlauncher.PrismLauncher"
