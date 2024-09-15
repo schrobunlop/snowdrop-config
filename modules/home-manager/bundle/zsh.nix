@@ -3,7 +3,7 @@
     enable = true;
     syntaxHighlighting.enable = true;
     shellAliases = {
-      nixup = "sudo nixos-rebuild";
+      nixos = "sudo nixos-rebuild";
       meta = "mat2 --no-sandbox -L";
     };
   };
