@@ -5,6 +5,7 @@
     shellAliases = {
       nixos = "sudo nixos-rebuild";
       meta = "mat2 --no-sandbox -L";
+      la = "ls -la";
     };
   };
 }
