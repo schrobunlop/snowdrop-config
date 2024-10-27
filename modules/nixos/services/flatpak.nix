@@ -13,7 +13,6 @@
       "io.github.peazip.PeaZip"
       "org.kde.krita"
       "org.keepassxc.KeePassXC"
-      "org.mozilla.Thunderbird"
       "org.onlyoffice.desktopeditors"
       "org.prismlauncher.PrismLauncher"
       "org.shotcut.Shotcut"
